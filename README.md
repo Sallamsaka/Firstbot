@@ -1,0 +1,2 @@
+# Firstbot
+A disord boot

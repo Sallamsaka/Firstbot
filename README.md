@@ -1,2 +1,2 @@
 # Firstbot
-A disord boot
+A disord bot

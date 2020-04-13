@@ -1,2 +1,1 @@
-# Firstbot
-A disord bot
+"# Bot-1" 
